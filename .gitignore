@@ -6,4 +6,4 @@ datasets/
 .env
 
 outputs/*.tmp
-outputs/*.log
+outputs/*.log.venv/
