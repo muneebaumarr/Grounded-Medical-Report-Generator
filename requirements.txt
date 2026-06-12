@@ -1,0 +1,9 @@
+numpy
+pandas
+pillow
+pyyaml
+scikit-learn
+sentence-transformers
+opencv-python
+matplotlib
+fpdf
